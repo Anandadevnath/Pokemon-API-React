@@ -1,8 +1,11 @@
-# React + Vite
+# Pokémon API Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project uses the [Pokémon API]([https://pokeapi.co/](https://pokeapi.co/api/v2/pokemon?limit=24)) to fetch and display Pokémon data. You can retrieve information about various Pokémon, abilities, moves, types, and more.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Get detailed information on individual Pokémon, including their stats, abilities, and moves.
+- View Pokémon by type (e.g., Fire, Water, Electric).
+- Search Pokémon by name or ID.
+- Explore abilities, moves, and their effects.
+
